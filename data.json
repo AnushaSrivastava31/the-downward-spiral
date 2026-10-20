@@ -1,0 +1,813 @@
+{
+  "fact": [
+    {
+      "title": "The Living Root Bridges of Meghalaya",
+      "text": "In the rain-drenched hills of Meghalaya, the Khasi and Jaintia peoples guide the aerial roots of <em>Ficus elastica</em> through hollowed betel nut trunks across rivers. These living crossings grow stronger with age, enduring for over 500 years.<br><br><small>Reference: <a href='https://whc.unesco.org/en/tentativelists/6622/' target='_blank' rel='noopener'>UNESCO World Heritage Tentative Lists</a></small>"
+    },
+    {
+      "title": "The Immortal Jellyfish",
+      "text": "When stressed, starving, or injured, <em>Turritopsis dohrnii</em> undergoes transdifferentiation, reverting its mature cells back into a colonial polyp stage and effectively bypassing biological death.<br><br><small>Reference: <a href='https://www.amnh.org' target='_blank' rel='noopener'>American Museum of Natural History</a></small>"
+    },
+    {
+      "title": "The Bouba/Kiki Effect",
+      "text": "Across languages and cultures, over 95% of people map the rounded nonsense word 'Bouba' to curvy shapes and 'Kiki' to spiky angles, proving phonetic symbolism is innately synesthetic.<br><br><small>Reference: <a href='https://www.mpi.nl' target='_blank' rel='noopener'>Max Planck Institute for Psycholinguistics</a></small>"
+    },
+    {
+      "title": "The Whispering Walls of Golconda",
+      "text": "At Golconda Fort in Hyderabad, a single handclap beneath the Fateh Darwaza dome bounces across acoustic arches to echo a kilometer uphill at the Bala Hissar pavilion, serving as an acoustic warning system.<br><br><small>Reference: <a href='https://asi.nic.in' target='_blank' rel='noopener'>Archaeological Survey of India</a></small>"
+    },
+    {
+      "title": "The Voynich Enigma",
+      "text": "Dated to the 15th century, the illustrated Voynich Manuscript is written in an unmapped script and unknown language. World-class cryptographers, including Alan Turing's Bletchley Park team, failed to decipher a single verified line.<br><br><small>Reference: <a href='https://beinecke.library.yale.edu' target='_blank' rel='noopener'>Yale Beinecke Library</a></small>"
+    },
+    {
+      "title": "Apollo 11's Margaret Hamilton",
+      "text": "During the lunar landing, Apollo 11's guidance computer was overwhelmed with radar data. Margaret Hamilton's software design preemptively shed low-priority tasks, preserving thruster routines and saving the mission.<br><br><small>Reference: <a href='https://www.nasa.gov' target='_blank' rel='noopener'>NASA History Division</a></small>"
+    },
+    {
+      "title": "Oxford's Age vs. The Aztecs",
+      "text": "Teaching existed at Oxford by 1096 CE. The Aztec Triple Alliance was founded in 1428 CE, making Oxford University older than the Aztec Empire.<br><br><small>Reference: <a href='https://www.ox.ac.uk' target='_blank' rel='noopener'>University of Oxford</a></small>"
+    },
+    {
+      "title": "Wombat Geometry",
+      "text": "Wombats are the only known animals that produce cube-shaped feces. Elastic grooves in their intestines form flat edges, preventing their droppings from rolling away from marked territorial rocks.<br><br><small>Reference: <a href='https://www.bbc.com' target='_blank' rel='noopener'>BBC Science</a></small>"
+    },
+    {
+      "title": "The Iron Pillar of Delhi",
+      "text": "Forged in the 5th century CE under Chandragupta II, this 6-tonne iron pillar has stood outdoors for over 1,600 years without rusting, thanks to a high-phosphorus misawite protective layer.<br><br><small>Reference: <a href='https://asi.nic.in' target='_blank' rel='noopener'>Archaeological Survey of India</a></small>"
+    },
+    {
+      "title": "The Longest Musical Composition",
+      "text": "In Halberstadt, Germany, John Cage's pipe organ piece <em>Organ²/ASLSP</em> (As Slow as Possible) started playing in 2001 and is scheduled to conclude in the year 2640, lasting 639 years.<br><br><small>Reference: <a href='https://www.aslsp.org' target='_blank' rel='noopener'>John Cage Organ Project</a></small>"
+    },
+    {
+      "title": "Tree Precedence",
+      "text": "Sharks have inhabited Earth's oceans for approximately 400 million years. The earliest land trees, like <em>Archaeopteris</em>, did not appear until roughly 350 million years ago.<br><br><small>Reference: <a href='https://www.smithsonianmag.com' target='_blank' rel='noopener'>Smithsonian Institution</a></small>"
+    },
+    {
+      "title": "Ancient Egyptian Honey",
+      "text": "Archaeologists excavating ancient Egyptian tombs regularly uncover jars of 3,000-year-old honey that remain completely edible, preserved by ultra-low moisture and high acidity.<br><br><small>Reference: <a href='https://www.si.edu' target='_blank' rel='noopener'>Smithsonian Magazine</a></small>"
+    },
+    {
+      "title": "Cleopatra's Temporal Paradox",
+      "text": "Cleopatra VII lived closer in time to the Moon landings and the first smartphone than to the building of the Great Pyramid of Giza.<br><br><small>Reference: <a href='https://www.britannica.com' target='_blank' rel='noopener'>Encyclopaedia Britannica</a></small>"
+    },
+    {
+      "title": "Mammoths and Imhotep",
+      "text": "A tiny, isolated population of woolly mammoths survived on Wrangel Island in the Arctic until roughly 1650 BCE, outliving the construction of Egypt's pyramids.<br><br><small>Reference: <a href='https://www.nature.com' target='_blank' rel='noopener'>Nature Research</a></small>"
+    },
+    {
+      "title": "Nintendo's Samurai Roots",
+      "text": "Nintendo was founded in Kyoto in 1889 as a manufacturer of handmade <em>hanafuda</em> playing cards, decades before turning to toys and video games.<br><br><small>Reference: <a href='https://www.nintendo.co.jp' target='_blank' rel='noopener'>Nintendo Corporate History</a></small>"
+    },
+    {
+      "title": "The Loneliest Tree on Earth",
+      "text": "The Tree of Ténéré was an acacia standing 400 km away from any other tree in the Sahara desert. In 1973, it was knocked down by a truck driver on an empty desert plain.<br><br><small>Reference: <a href='https://www.atlasobscura.com' target='_blank' rel='noopener'>Atlas Obscura</a></small>"
+    },
+    {
+      "title": "The Pitch Drop Experiment",
+      "text": "Begun in 1927 at the University of Queensland, this experiment demonstrates that pitch (a derivative of tar) is a liquid at room temperature. Drops fall roughly once every decade.<br><br><small>Reference: <a href='https://smp.uq.edu.au' target='_blank' rel='noopener'>University of Queensland</a></small>"
+    },
+    {
+      "title": "Venusian Days vs. Years",
+      "text": "Venus rotates so slowly on its axis that a single Venusian sidereal day lasts 243 Earth days, longer than its orbital year of 225 Earth days.<br><br><small>Reference: <a href='https://solarsystem.nasa.gov' target='_blank' rel='noopener'>NASA Solar System Exploration</a></small>"
+    },
+    {
+      "title": "The Great Vowel Shift",
+      "text": "Between 1400 and 1700, English underwent an unprecedented phonetic shift where all long vowels raised their tongue positions, which explains why English spelling often conflicts with pronunciation.<br><br><small>Reference: <a href='https://www.oed.com' target='_blank' rel='noopener'>Oxford English Dictionary</a></small>"
+    },
+    {
+      "title": "The Decimal Invention of Shunya",
+      "text": "Mathematician Brahmagupta in 628 CE formalized the mathematical rules for zero ('shunya') as both a placeholder and an operational number in his text <em>Brahmasphutasiddhanta</em>.<br><br><small>Reference: <a href='https://mathshistory.st-andrews.ac.uk' target='_blank' rel='noopener'>MacTutor History of Mathematics</a></small>"
+    },
+    {
+      "title": "Antarctic Fungi in Chernobyl",
+      "text": "Radiotrophic fungi (such as <em>Cladosporium sphaerospermum</em>) discovered growing on the walls of the ruined Chernobyl reactor use melanin pigment to convert gamma radiation into chemical energy.<br><br><small>Reference: <a href='https://www.ncbi.nlm.nih.gov' target='_blank' rel='noopener'>National Library of Medicine</a></small>"
+    },
+    {
+      "title": "The Pando Quaking Aspen",
+      "text": "In Utah, an 80,000-year-old grove called Pando spans over 100 acres. All 40,000+ trees are genetically identical stems stemming from a single massive, shared underground root system.<br><br><small>Reference: <a href='https://www.fs.usda.gov' target='_blank' rel='noopener'>USDA Forest Service</a></small>"
+    },
+    {
+      "title": "Glass Sponge Lifespans",
+      "text": "Deep in the East China Sea and Southern Ocean, specimens of <em>Monorhaphis chuni</em> (giant glass sponges) construct silica spicules and live upwards of 11,000 years.<br><br><small>Reference: <a href='https://www.sciencedirect.com' target='_blank' rel='noopener'>ScienceDirect</a></small>"
+    },
+    {
+      "title": "The Ant Empire",
+      "text": "A single Argentine ant supercolony stretches across 6,000 kilometers along the Mediterranean coast, where billions of ants recognize each other as kin without exhibiting aggression.<br><br><small>Reference: <a href='https://www.pnas.org' target='_blank' rel='noopener'>PNAS</a></small>"
+    },
+    {
+      "title": "Crows Recognize Faces",
+      "text": "Crows possess long-term facial recognition memory. University of Washington researchers found crows remember human faces associated with capture and warn other flock members for generations.<br><br><small>Reference: <a href='https://www.washington.edu' target='_blank' rel='noopener'>University of Washington News</a></small>"
+    },
+    {
+      "title": "The World's Quietest Room",
+      "text": "The anechoic chamber at Microsoft's headquarters in Redmond measures at -20.35 dBA, quiet enough that visitors can hear their own blood circulate and ears hiss.<br><br><small>Reference: <a href='https://news.microsoft.com' target='_blank' rel='noopener'>Microsoft Stories</a></small>"
+    },
+    {
+      "title": "Bananas Are Radioactive",
+      "text": "Due to their high content of Potassium-40, bananas emit detectable traces of ionizing radiation. Scientists sometimes use the 'Banana Equivalent Dose' as an illustrative scale.<br><br><small>Reference: <a href='https://www.epa.gov' target='_blank' rel='noopener'>EPA RadTown</a></small>"
+    },
+    {
+      "title": "Ancient Roman Concrete",
+      "text": "Roman marine concrete uses volcanic ash and lime. Over centuries, exposure to seawater triggers an exchange that crystallizes aluminous tobermorite, strengthening the structure over time.<br><br><small>Reference: <a href='https://news.mit.edu' target='_blank' rel='noopener'>MIT News</a></small>"
+    },
+    {
+      "title": "Tardigrade Cryptobiosis",
+      "text": "Tardigrades can survive outer space vacuum, ionizing radiation, and near-absolute zero temperatures by expelling almost all body water and entering anhydrobiosis.<br><br><small>Reference: <a href='https://www.esa.int' target='_blank' rel='noopener'>European Space Agency</a></small>"
+    },
+    {
+      "title": "Kallanai Dam Longevity",
+      "text": "Built by King Karikalan of the Chola dynasty across the Kaveri river in the 2nd century CE, the Kallanai dam remains one of the world's oldest continuously operating water-regulators.<br><br><small>Reference: <a href='https://www.britannica.com' target='_blank' rel='noopener'>Encyclopaedia Britannica</a></small>"
+    },
+    {
+      "title": "Octopus Brain Anatomy",
+      "text": "Two-thirds of an octopus's neurons are located in its arms rather than its central brain, allowing tentacles to sample textures, taste chemicals, and make independent choices.<br><br><small>Reference: <a href='https://www.cell.com' target='_blank' rel='noopener'>Cell Biology</a></small>"
+    },
+    {
+      "title": "The 1816 Year Without a Summer",
+      "text": "Following Mount Tambora's catastrophic eruption in Indonesia, sulfur aerosols circled the globe, causing snowfall in June across New England and triggering worldwide crop failures.<br><br><small>Reference: <a href='https://www.earthobservatory.nasa.gov' target='_blank' rel='noopener'>NASA Earth Observatory</a></small>"
+    },
+    {
+      "title": "The World's Oldest Operating Hotel",
+      "text": "Nishiyama Onsen Keiunkan in Yamanashi, Japan, has been in continuous operation since 705 CE and managed by over 50 generations of the same family.<br><br><small>Reference: <a href='https://www.guinnessworldrecords.com' target='_blank' rel='noopener'>Guinness World Records</a></small>"
+    },
+    {
+      "title": "Clouds Have Massive Weight",
+      "text": "An average fair-weather cumulus cloud spans roughly one cubic kilometer and contains approximately 500,000 kilograms (500 tonnes) of suspended water droplets.<br><br><small>Reference: <a href='https://www.usgs.gov' target='_blank' rel='noopener'>USGS Water Science</a></small>"
+    },
+    {
+      "title": "Platypus Biofluorescence",
+      "text": "Under ultraviolet illumination, the dense fur of the duck-billed platypus absorbs UV photons and re-emits a cyan-green glow, an adaptation whose purpose remains unconfirmed.<br><br><small>Reference: <a href='https://www.sciencedirect.com' target='_blank' rel='noopener'>Mammalia Journal</a></small>"
+    },
+    {
+      "title": "The First Computer Bug",
+      "text": "In 1947, engineer Grace Hopper's team on the Harvard Mark II computer traced a hardware failure to a moth trapped between relay switches, taping it into the logbook.<br><br><small>Reference: <a href='https://americanhistory.si.edu' target='_blank' rel='noopener'>National Museum of American History</a></small>"
+    },
+    {
+      "title": "Mantis Shrimp Strike Velocity",
+      "text": "The club of the peacock mantis shrimp strikes prey at 80 km/h, accelerating faster than a 22-caliber bullet and vaporizing water to produce light and cavitation heat.<br><br><small>Reference: <a href='https://www.nature.com' target='_blank' rel='noopener'>Nature Research</a></small>"
+    },
+    {
+      "title": "The Shortest War in History",
+      "text": "The Anglo-Zanzibar War of August 27, 1896, concluded in between 38 and 43 minutes after British naval bombardments struck the sultan's palace.<br><br><small>Reference: <a href='https://www.nam.ac.uk' target='_blank' rel='noopener'>National Army Museum</a></small>"
+    },
+    {
+      "title": "Sunlight Age",
+      "text": "Photons generated by fusion in the Sun's core take anywhere from 10,000 to 100,000 years to reach the surface, but then travel to Earth in 8 minutes and 20 seconds.<br><br><small>Reference: <a href='https://www.nasa.gov' target='_blank' rel='noopener'>NASA Sun-Earth</a></small>"
+    },
+    {
+      "title": "The Sanskrit Metric Binary System",
+      "text": "In the 3rd or 2nd century BCE, scholar Pingala's <em>Chandas Shastra</em> described short and long syllables in Vedic verse, introducing binary sequences, combinations, and binomial coefficients.<br><br><small>Reference: <a href='https://archive.org' target='_blank' rel='noopener'>Digital Library of India</a></small>"
+    },
+    {
+      "title": "Dead Sea Buoyancy",
+      "text": "With a salinity exceeding 33%, the Dead Sea's density prevents human swimmers from sinking, allowing bodies to float naturally at the surface.<br><br><small>Reference: <a href='https://www.usgs.gov' target='_blank' rel='noopener'>USGS Water Data</a></small>"
+    },
+    {
+      "title": "The Greenland Shark Lifespan",
+      "text": "Radiocarbon dating of lens proteins from Greenland sharks revealed specimens living upwards of 390 years, making them the longest-lived vertebrates known.<br><br><small>Reference: <a href='https://www.science.org' target='_blank' rel='noopener'>Science Magazine</a></small>"
+    },
+    {
+      "title": "Neutron Star Density",
+      "text": "Neutron stars are so dense that a single sugar-cube volume of their core material would weigh approximately 1 billion tonnes on Earth.<br><br><small>Reference: <a href='https://www.nasa.gov' target='_blank' rel='noopener'>NASA Astrophysics</a></small>"
+    },
+    {
+      "title": "Flamingo Milk",
+      "text": "Both male and female flamingos feed their chicks 'crop milk', a nutrient-rich secretion from their digestive tracts pigmented red by carotenoids.<br><br><small>Reference: <a href='https://www.audubon.org' target='_blank' rel='noopener'>Audubon Society</a></small>"
+    },
+    {
+      "title": "The London Beer Flood",
+      "text": "In October 1814, a massive vat at the Meux & Co. Brewery ruptured, sending a wave of 1.4 million liters of fermented porter surging through the parish of St. Giles.<br><br><small>Reference: <a href='https://www.historic-uk.com' target='_blank' rel='noopener'>Historic UK</a></small>"
+    },
+    {
+      "title": "Sloth Metabolism",
+      "text": "Three-toed sloths possess such a slow metabolic rate that it can take an entire month for a single leaf to travel through their multi-chambered stomach.<br><br><small>Reference: <a href='https://www.nationalgeographic.com' target='_blank' rel='noopener'>National Geographic</a></small>"
+    },
+    {
+      "title": "Saturn Can Float",
+      "text": "Saturn's mean density is approximately 0.687 g/cm³, lower than that of liquid water (1.0 g/cm³). Placed in a sufficiently vast ocean, the gas giant would float.<br><br><small>Reference: <a href='https://solarsystem.nasa.gov' target='_blank' rel='noopener'>NASA Science</a></small>"
+    },
+    {
+      "title": "The Dancing Plague of 1518",
+      "text": "In Strasbourg, hundreds of townspeople danced for days without rest during a collective psychogenic episode, continuing until many collapsed from exhaustion.<br><br><small>Reference: <a href='https://www.thelancet.com' target='_blank' rel='noopener'>The Lancet</a></small>"
+    },
+    {
+      "title": "The Diamond Rain on Neptune",
+      "text": "Deep inside Neptune and Uranus, temperatures and pressures compress hydrocarbons into solid diamond crystals that sink down toward the core like rain.<br><br><small>Reference: <a href='https://www.nature.com' target='_blank' rel='noopener'>Nature Communications</a></small>"
+    },
+    {
+      "title": "The Sitar String Harmonics",
+      "text": "The sitar features sympathetic strings (tarabs) running under the primary frets that are never plucked; they resonate solely when their matched frequencies are played on the upper strings.<br><br><small>Reference: <a href='https://www.metmuseum.org' target='_blank' rel='noopener'>Metropolitan Museum of Art</a></small>"
+    }
+  ],
+
+  "rabbithole": [
+    {
+      "title": "The Lost Cosmonauts Hypothesis",
+      "text": "In the late 1950s, the Judica-Cordiglia brothers in Turin used amateur antennas to monitor orbital transmissions, claiming to capture distress calls from crewed Soviet missions never announced by Moscow.<br><br><em>Where is the line between Cold War paranoia and redacted space exploration?</em><br><br><small>Explore: <a href='https://daily.jstor.org' target='_blank' rel='noopener'>JSTOR Daily</a></small>"
+    },
+    {
+      "title": "The Antikythera Mechanism",
+      "text": "Salvaged from an ancient shipwreck in 1901, this 2,000-year-old bronze apparatus calculated celestial cycles and eclipses using 30 precision gears.<br><br><em>Why did mechanical complexity of this level disappear from the historical record for over a millennium?</em><br><br><small>Explore: <a href='https://www.nature.com' target='_blank' rel='noopener'>Nature Research</a></small>"
+    },
+    {
+      "title": "The Phantom Time Hypothesis",
+      "text": "Theorist Heribert Illig proposed that the Early Middle Ages (614–911 CE) were entirely fabricated by Emperor Otto III and Pope Sylvester II to position their reign in the landmark year 1000.<br><br><em>How fragile is humanity's consensus on historical chronology?</em><br><br><small>Explore: <a href='https://www.smithsonianmag.com' target='_blank' rel='noopener'>Smithsonian Magazine</a></small>"
+    },
+    {
+      "title": "The Loneliest Whale in the World",
+      "text": "Since 1989, ocean hydrophones have tracked a whale vocalizing at 52 Hz—far above the 15–25 Hz calls of blue or fin whales. It migrates without documented response from other pods.<br><br><em>Is '52 Blue' an anomaly, a hybrid, or the sole survivor of an unmapped cetacean lineage?</em><br><br><small>Explore: <a href='https://www.whoi.edu' target='_blank' rel='noopener'>Woods Hole Oceanographic Institution</a></small>"
+    },
+    {
+      "title": "The Wow! Signal",
+      "text": "In 1977, the Big Ear radio telescope registered a 72-second narrowband signal at the 1420 MHz hydrogen line, originating from the Sagittarius constellation, which never repeated.<br><br><em>Was this an unconfirmed interstellar transmission or an undiscovered natural phenomenon?</em><br><br><small>Explore: <a href='https://www.seti.org' target='_blank' rel='noopener'>SETI Institute</a></small>"
+    },
+    {
+      "title": "The Dyatlov Pass Incident",
+      "text": "In 1959, nine ski hikers in the Ural Mountains fled their tent in sub-zero temperatures with fatal injuries and unexplained trauma, leaving forensic contradictions that persist today.<br><br><em>Can localized slab avalanches, infrasound, or military tests account for the crew's panicked dispersion?</em><br><br><small>Explore: <a href='https://www.nationalgeographic.com' target='_blank' rel='noopener'>National Geographic</a></small>"
+    },
+    {
+      "title": "Cicada 3301",
+      "text": "In 2012, cryptographic challenges surfaced across online boards, demanding knowledge of steganography, medieval poetry, and prime numbers to identify 'highly intelligent individuals.'<br><br><em>Who ran Cicada: intelligence agencies, a security firm, or a fringe collective?</em><br><br><small>Explore: <a href='https://www.washingtonpost.com' target='_blank' rel='noopener'>The Washington Post</a></small>"
+    },
+    {
+      "title": "The Taos Hum",
+      "text": "In Taos, New Mexico, approximately 2% of residents report an acoustic low-frequency hum that cannot be measured by standard microphones or pinpointed to mechanical infrastructure.<br><br><em>Is the sound an acoustic resonance, electromagnetic reception, or an otoacoustic anomaly?</em><br><br><small>Explore: <a href='https://www.livescience.com' target='_blank' rel='noopener'>Live Science</a></small>"
+    },
+    {
+      "title": "The Oak Island Money Pit",
+      "text": "Since 1795, excavators on Nova Scotia's Oak Island have uncovered timber platforms, coconut fibers, and flood traps buried hundreds of feet underground.<br><br><em>Was the pit a pirate cache, naval repository, or natural subterranean sinkhole?</em><br><br><small>Explore: <a href='https://www.canadiangeographic.ca' target='_blank' rel='noopener'>Canadian Geographic</a></small>"
+    },
+    {
+      "title": "The Roanoke Disappearance",
+      "text": "In 1590, John White returned to England's Roanoke colony to find all 115 settlers missing, with only the word 'CROATOAN' carved into a wooden post.<br><br><em>Did the settlers assimilate with indigenous communities, or were they displaced elsewhere along the coast?</em><br><br><small>Explore: <a href='https://www.nps.gov' target='_blank' rel='noopener'>National Park Service</a></small>"
+    },
+    {
+      "title": "The Tunguska Event",
+      "text": "In 1908, an aerial explosion over the Siberian taiga leveled 80 million trees across 2,150 square kilometers without leaving an impact crater.<br><br><em>What does high-altitude cometary fragmentation tell us about planetary defense?</em><br><br><small>Explore: <a href='https://www.nasa.gov' target='_blank' rel='noopener'>NASA Science</a></small>"
+    },
+    {
+      "title": "The Bronze Age Collapse",
+      "text": "Around 1200 BCE, advanced Mediterranean civilizations—including the Mycenaeans, Hittites, and New Kingdom Egypt—collapsed or contracted within a few decades.<br><br><em>Was the destabilization driven by 'Sea Peoples', drought, seismic crises, or fragile trade systems?</em><br><br><small>Explore: <a href='https://www.worldhistory.org' target='_blank' rel='noopener'>World History Encyclopedia</a></small>"
+    },
+    {
+      "title": "The Mary Celeste Abandonment",
+      "text": "In 1872, the brigantine <em>Mary Celeste</em> was found adrift off the Azores under sail, with cargo untouched, personal belongings intact, and no crew aboard.<br><br><em>Did alcohol vapor leaks prompt an evacuation into the open Atlantic?</em><br><br><small>Explore: <a href='https://www.smithsonianmag.com' target='_blank' rel='noopener'>Smithsonian Magazine</a></small>"
+    },
+    {
+      "title": "The Toynbee Tiles",
+      "text": "Since the 1980s, linoleum tiles featuring cryptic text about resurrecting dead human life on Jupiter have been embedded into asphalt crossings across dozens of North American cities.<br><br><em>Who created them, and how were they installed on busy roads without detection?</em><br><br><small>Explore: <a href='https://www.phillyvoice.com' target='_blank' rel='noopener'>PhillyVoice</a></small>"
+    },
+    {
+      "title": "The Green Children of Woolpit",
+      "text": "12th-century chronicles in Suffolk record two children who appeared speaking an unmapped tongue, dressed in unusual garments, and with skin of a greenish tint.<br><br><em>Was this an allegory, chlorosis anemia, or displaced Flemish immigrants?</em><br><br><small>Explore: <a href='https://www.historytoday.com' target='_blank' rel='noopener'>History Today</a></small>"
+    },
+    {
+      "title": "Kryptos Part 4",
+      "text": "Standing outside CIA headquarters in Langley, Jim Sanborn's copper sculpture contains four encrypted panels. Three were solved by cryptanalysts; the 97-character fourth passage remains uncracked.<br><br><em>What hidden cipher system guards the final key?</em><br><br><small>Explore: <a href='https://www.cia.gov' target='_blank' rel='noopener'>CIA News & Features</a></small>"
+    },
+    {
+      "title": "The Yonaguni Monument",
+      "text": "Submerged off Japan's Ryukyu Islands lie sandstone formations with flat terraces, right-angled steps, and straight edges.<br><br><em>Are they ruins of an ancient civilization or natural geological cleavage?</em><br><br><small>Explore: <a href='https://www.nationalgeographic.com' target='_blank' rel='noopener'>National Geographic</a></small>"
+    },
+    {
+      "title": "The Lead Masks Case",
+      "text": "In 1966, two Brazilian electronics technicians were discovered deceased on Morro do Vintém, wearing lead radiation eye-coverings, raincoats, and carrying a note about capsules.<br><br><em>What occult experiments or communications were they attempting?</em><br><br><small>Explore: <a href='https://www.historicmysteries.com' target='_blank' rel='noopener'>Historic Mysteries</a></small>"
+    },
+    {
+      "title": "The Devil's Footprints",
+      "text": "In February 1855, single-file hoof-like marks appeared overnight across 160 kilometers of snow in Devon, crossing over rivers, stone walls, and snowed-over roofs.<br><br><em>What animal or atmospheric condition could leave a continuous, straight footprint line?</em><br><br><small>Explore: <a href='https://www.bbc.co.uk' target='_blank' rel='noopener'>BBC Devon</a></small>"
+    },
+    {
+      "title": "The Baltic Sea Anomaly",
+      "text": "In 2011, sonar scans of the Baltic seabed revealed a 60-meter circular formation with stair-like structures and track marks along the floor.<br><br><em>Is it a glacial deposit, volcanic basalt, or a forgotten maritime artifact?</em><br><br><small>Explore: <a href='https://www.livescience.com' target='_blank' rel='noopener'>Live Science</a></small>"
+    },
+    {
+      "title": "The Great Attractor",
+      "text": "Hundreds of millions of light-years away, our Milky Way and thousands of adjacent galaxies are being pulled toward a gravitational anomaly in the Zone of Avoidance.<br><br><em>What massive structure lies concealed behind our own galaxy's dust plane?</em><br><br><small>Explore: <a href='https://www.nasa.gov' target='_blank' rel='noopener'>NASA Goddard</a></small>"
+    },
+    {
+      "title": "The Sailing Stones of Racetrack Playa",
+      "text": "In Death Valley, heavy dolomite boulders move across a mud playa, leaving long tracks without animal or human intervention.<br><br><em>How do wind, thin ice sheets, and midday sun combine to push heavy rock?</em><br><br><small>Explore: <a href='https://www.nps.gov' target='_blank' rel='noopener'>National Park Service</a></small>"
+    },
+    {
+      "title": "The Overtoun Bridge Canine Phenomenon",
+      "text": "Since the 1950s, dozens of dogs have leaped off Scotland's Overtoun Bridge from the same parapet during clear, sunny weather.<br><br><em>Could the scent of mink and pine martens below trigger an instinctual response?</em><br><br><small>Explore: <a href='https://www.nytimes.com' target='_blank' rel='noopener'>The New York Times</a></small>"
+    },
+    {
+      "title": "The Flannan Isles Lighthouse Mystery",
+      "text": "In December 1900, three lighthouse keepers vanished from an isolated Hebridean island, leaving an untouched meal and a stopped clock.<br><br><em>Were they swept into the North Atlantic by rogue waves while securing gear?</em><br><br><small>Explore: <a href='https://www.nlb.org.uk' target='_blank' rel='noopener'>Northern Lighthouse Board</a></small>"
+    },
+    {
+      "title": "The Silent Zone of Mapimí",
+      "text": "In Durango, Mexico, a pocket of desert contains radio dead zones and high levels of meteorite impacts, inspiring decades of regional folklore.<br><br><em>Are topographical features and mineral deposits shaping signal reception here?</em><br><br><small>Explore: <a href='https://www.atlasobscura.com' target='_blank' rel='noopener'>Atlas Obscura</a></small>"
+    },
+    {
+      "title": "The Sea People Invasions",
+      "text": "Inscriptions on Medinet Habu record a confederation of seafaring groups that attacked eastern Mediterranean ports in 1200 BCE, leaving few details about their origin.<br><br><em>Where did these maritime contingents mobilize from?</em><br><br><small>Explore: <a href='https://www.worldhistory.org' target='_blank' rel='noopener'>World History Encyclopedia</a></small>"
+    },
+    {
+      "title": "The Pollock Twins Reincarnation Case",
+      "text": "In 1958, twin sisters born in Hexham, England, displayed detailed knowledge of their deceased older sisters' toys, habits, and town landmarks without prior exposure.<br><br><em>How do psychologists examine memories formed in early childhood?</em><br><br><small>Explore: <a href='https://med.virginia.edu' target='_blank' rel='noopener'>University of Virginia Division of Perceptual Studies</a></small>"
+    },
+    {
+      "title": "The Missing Roman Ninth Legion",
+      "text": "After campaigning in northern Britain around 120 CE, the Legio IX Hispana drops out of surviving imperial military inscriptions.<br><br><em>Did the legion fall in Caledonian campaigns or redeploy to the Rhine or Judea?</em><br><br><small>Explore: <a href='https://www.historic-uk.com' target='_blank' rel='noopener'>Historic UK</a></small>"
+    },
+    {
+      "title": "The Wow! Whale Frequency Shift",
+      "text": "Recordings from oceanographic sensors show blue whale vocalization frequencies dropping steadily across the world's oceans over decades.<br><br><em>Are changing noise floors or population dynamics altering their acoustic pitch?</em><br><br><small>Explore: <a href='https://www.scientificamerican.com' target='_blank' rel='noopener'>Scientific American</a></small>"
+    },
+    {
+      "title": "The Man in the Iron Mask",
+      "text": "During Louis XIV's reign, an unidentified prisoner was held in the Bastille for decades, his face concealed by velvet and iron, buried under the pseudonym 'Marchioly.'<br><br><em>Was he a royal sibling, disgraced general, or political valet?</em><br><br><small>Explore: <a href='https://www.britannica.com' target='_blank' rel='noopener'>Encyclopaedia Britannica</a></small>"
+    },
+    {
+      "title": "The Mystery of the Indus Script",
+      "text": "Over 4,000 inscribed artifacts from Mohenjo-daro and Harappa bear brief, sophisticated glyphs that remain undeciphered without a bilingual inscription.<br><br><em>Does the Indus script encode spoken language, symbols, or economic tallies?</em><br><br><small>Explore: <a href='https://www.harappa.com' target='_blank' rel='noopener'>Harappa Archaeological Research Project</a></small>"
+    },
+    {
+      "title": "The Roman Dodecahedron",
+      "text": "Over 100 hollow bronze dodecahedra with varying knobbed corners and circular holes have been unearthed across northern Roman provinces, absent from surviving texts.<br><br><em>Were they surveying tools, astronomical calendars, or textile gauges?</em><br><br><small>Explore: <a href='https://www.archaeology.org' target='_blank' rel='noopener'>Archaeological Institute of America</a></small>"
+    },
+    {
+      "title": "The Hessdalen Lights",
+      "text": "Since the 1980s, glowing orbs of light hover and drift above Norway's Hessdalen valley for seconds or hours at a time.<br><br><em>Could dust-borne combustion or ion discharges explain these atmospheric events?</em><br><br><small>Explore: <a href='https://www.hiof.no' target='_blank' rel='noopener'>Østfold University College Hessdalen Project</a></small>"
+    },
+    {
+      "title": "The Devil's Bible (Codex Gigas)",
+      "text": "Requiring the hides of 160 donkeys, this massive medieval manuscript contains an infamous full-page portrait of Lucifer and was legendarily transcribed overnight by a recluse monk.<br><br><em>How did a single scribe maintain uniform calligraphy across a folio of this scale?</em><br><br><small>Explore: <a href='https://www.kb.se' target='_blank' rel='noopener'>National Library of Sweden</a></small>"
+    },
+    {
+      "title": "The Somerton Man (Tamám Shud)",
+      "text": "In 1948, an unidentified man was found on an Adelaide beach with a scrap of paper reading 'Tamám Shud' sewn into his pocket, leading to decades of codebreaking.<br><br><em>How did Cold War espionage intersect with this forensic enigma?</em><br><br><small>Explore: <a href='https://www.abc.net.au' target='_blank' rel='noopener'>ABC News Australia</a></small>"
+    },
+    {
+      "title": "The Belmez Faces",
+      "text": "In 1971, spontaneous image-like stains resembling human faces began appearing on the concrete floor of a house in Bélmez, Spain, resisting chemical cleaning.<br><br><em>Were they caused by mineral reactions, moisture, or deliberate pigments?</em><br><br><small>Explore: <a href='https://www.elconfidencial.com' target='_blank' rel='noopener'>El Confidencial Cultural Archive</a></small>"
+    },
+    {
+      "title": "The Bouvet Island Lifeboat",
+      "text": "Bouvet Island is considered one of the most remote places on Earth. In 1964, an expedition found an abandoned, seaworthy lifeboat on its shores, with oars inside and no sign of crew.<br><br><em>Whose vessel was it, and how did it reach an uninhabited sub-Antarctic island?</em><br><br><small>Explore: <a href='https://www.spri.cam.ac.uk' target='_blank' rel='noopener'>Scott Polar Research Institute</a></small>"
+    },
+    {
+      "title": "The Circleville Letters",
+      "text": "Starting in 1976, residents of Circleville, Ohio, received letters containing specific personal details, followed by booby-trapped signs along roadsides.<br><br><em>Who was behind the decades-long campaign?</em><br><br><small>Explore: <a href='https://www.cbsnews.com' target='_blank' rel='noopener'>CBS 48 Hours</a></small>"
+    },
+    {
+      "title": "The Biman Flight 059 Mystery",
+      "text": "Airliner systems sometimes record anomalous readings that push investigators toward novel meteorological insights, including rare clear-air turbulence phenomena.<br><br><em>How do rare high-altitude air currents challenge modern aviation design?</em><br><br><small>Explore: <a href='https://www.icao.int' target='_blank' rel='noopener'>ICAO Safety Audits</a></small>"
+    },
+    {
+      "title": "The Missing Library of Alexandria",
+      "text": "Once home to the largest manuscript archive in the classical world, Alexandria's library was damaged over centuries during civil wars, sieges, and shifts in imperial rule.<br><br><em>What lost works of science, philosophy, and history disappeared with its destruction?</em><br><br><small>Explore: <a href='https://www.britannica.com' target='_blank' rel='noopener'>Encyclopaedia Britannica</a></small>"
+    },
+    {
+      "title": "The Tarim Basin Mummies",
+      "text": "Excavated in Xinjiang, China, these Bronze Age mummies feature woven textiles and genetic markers indicating migrations earlier than once thought.<br><br><em>How did diverse cultural groups interact across early Eurasian trade networks?</em><br><br><small>Explore: <a href='https://www.penn.museum' target='_blank' rel='noopener'>Penn Museum</a></small>"
+    },
+    {
+      "title": "The Atacama Skeleton",
+      "text": "Discovered in Chile's Atacama Desert, this 6-inch mummified skeleton with elongated skull plates was initially hypothesized to be non-human before genetic sequencing proved otherwise.<br><br><em>What rare mutations caused this unique skeletal morphology?</em><br><br><small>Explore: <a href='https://www.genome.gov' target='_blank' rel='noopener'>National Human Genome Research Institute</a></small>"
+    },
+    {
+      "title": "The Lost Colony of Vinland",
+      "text": "The Norse established a settlement at L'Anse aux Meadows in Newfoundland around 1000 CE, but abandoned it after a few years.<br><br><em>Did indigenous relations, weather, or supply lines halt further settlement?</em><br><br><small>Explore: <a href='https://whc.unesco.org' target='_blank' rel='noopener'>UNESCO World Heritage</a></small>"
+    },
+    {
+      "title": "The Voynich Herbal Plants",
+      "text": "Scores of botanical illustrations in the Voynich Manuscript depict plants that do not match known living species on Earth.<br><br><em>Are they composites, medieval fantasy illustrations, or extinct varieties?</em><br><br><small>Explore: <a href='https://www.huntbotanical.org' target='_blank' rel='noopener'>Hunt Institute for Botanical Documentation</a></small>"
+    },
+    {
+      "title": "The disappearance of Percy Fawcett",
+      "text": "In 1925, British explorer Percy Fawcett entered the Amazon basin to find what he called the 'Lost City of Z', never to emerge.<br><br><em>Could recent satellite scans of earthworks shed light on his expedition?</em><br><br><small>Explore: <a href='https://www.rgs.org' target='_blank' rel='noopener'>Royal Geographical Society</a></small>"
+    },
+    {
+      "title": "The Max Headroom Broadcast Intrusion",
+      "text": "In 1987, a pirate broadcaster hijacked television transmitters in Chicago, airing a masked figure mimicking Max Headroom before disappearing from the airwaves.<br><br><em>How was this signal override executed, and who coordinated it?</em><br><br><small>Explore: <a href='https://www.fcc.gov' target='_blank' rel='noopener'>FCC Historical Records</a></small>"
+    },
+    {
+      "title": "The Göbekli Tepe Paradox",
+      "text": "Built in southeastern Turkey roughly 11,500 years ago, Göbekli Tepe's monumental stone pillars predate agriculture, pottery, and the wheel.<br><br><em>Did ritual gatherings spark organized settlements rather than the other way around?</em><br><br><small>Explore: <a href='https://whc.unesco.org' target='_blank' rel='noopener'>UNESCO World Heritage</a></small>"
+    },
+    {
+      "title": "The Wowen Pillar of Lepakshi",
+      "text": "At the 16th-century Veerabhadra Temple in Andhra Pradesh, one of the monolithic carved granite pillars hangs above the stone floor without resting on the ground.<br><br><em>How was the weight redistribution engineered across surrounding lintels?</em><br><br><small>Explore: <a href='https://asi.nic.in' target='_blank' rel='noopener'>Archaeological Survey of India</a></small>"
+    },
+    {
+      "title": "The Lost City of Atlantis",
+      "text": "Plato's dialogues <em>Timaeus</em> and <em>Critias</em> present the earliest written account of an empire swallowed by the ocean in a single day.<br><br><em>Was the account a political allegory or an echo of the Thera volcanic eruption?</em><br><br><small>Explore: <a href='https://www.stanford.edu' target='_blank' rel='noopener'>Stanford Encyclopedia of Philosophy</a></small>"
+    },
+    {
+      "title": "The Nazca Lines",
+      "text": "Across the Peruvian coastal desert, hundreds of geoglyphs depicting animals, plants, and geometric figures are etched into the oxidized gravel surface.<br><br><em>Were these lines intended for astronomical alignments, ritual paths, or aquifer mapping?</em><br><br><small>Explore: <a href='https://whc.unesco.org' target='_blank' rel='noopener'>UNESCO World Heritage</a></small>"
+    }
+  ],
+
+  "challenge": [
+    {
+      "title": "The Two Guard Paradox",
+      "text": "You stand before two doors: one to freedom, one to peril. Two guards stand by; one always tells the truth, one always lies. You can ask one guard a single question.<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>Ask either guard: <em>'Which door would the other guard say leads to freedom?'</em> Both will indicate the peril door. Choose the opposite one.</p></details>"
+    },
+    {
+      "title": "Lateral Thinking: The River Crossing",
+      "text": "A traveler reaches a wide, deep river without boats, bridges, or ropes. He cannot swim, yet he crosses to the other side safely and dry in less than a minute.<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>He crossed during winter when the river was frozen solid.</p></details>"
+    },
+    {
+      "title": "Creative Sprint: The Constrained Tale",
+      "text": "Write a story in 26 words, where each word starts with the subsequent letter of the alphabet from A to Z.<br><br><details style='cursor:pointer;'><summary><strong>Reveal an example</strong></summary><p style='margin-top:0.5rem;'><em>'All brave creators develop ever-new forms, gaining honest insights, just knowing lessons make navigation open pathways quite readily, seeking true universal wisdom, yielding zeal.'</em></p></details>"
+    },
+    {
+      "title": "The Midnight Clock Riddle",
+      "text": "I possess no flesh, no feathers, no scales, and no bone. Yet I have four fingers and a thumb of my own. What am I?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>A glove.</p></details>"
+    },
+    {
+      "title": "The Blind Man's Socks",
+      "text": "A drawer contains 10 black socks and 10 white socks. In total darkness, what is the minimum number of socks you must pull to guarantee a matched pair?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>3 socks. With two colors available, drawing three ensures at least two share the same color.</p></details>"
+    },
+    {
+      "title": "Lateral Thinking: The Elevator Mystery",
+      "text": "A man lives on the 10th floor. On rainy days, he takes the elevator to the 10th floor. On dry days, he rides to the 7th floor and walks the rest. Why?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>He is of short stature and can only reach the button for the 10th floor using an umbrella tip on rainy days.</p></details>"
+    },
+    {
+      "title": "The Heavy Coin Challenge",
+      "text": "You have 8 coins identical in appearance; one is slightly heavier than the rest. Using a balance scale, how do you identify the heavy coin in 2 weighings?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>Weigh 3 coins against 3. If they balance, weigh the remaining 2. If one side drops, weigh 2 coins from the heavier group of 3.</p></details>"
+    },
+    {
+      "title": "The Word Without Vowels",
+      "text": "What 7-letter English word contains no traditional vowels (A, E, I, O, U)?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>RHYTHMS.</p></details>"
+    },
+    {
+      "title": "The Burning Rope Timers",
+      "text": "You have two ropes; each takes 60 minutes to burn completely, but they burn unevenly. How do you measure 45 minutes?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>Light both ends of rope A and one end of rope B. When rope A finishes burning (30 min), light the other end of rope B (adds 15 min).</p></details>"
+    },
+    {
+      "title": "The Surgeon's Family",
+      "text": "A father and son are in an accident. At the hospital, the surgeon looks at the boy and says, 'I cannot operate on him, he is my son!' Who is the surgeon?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>The boy's mother.</p></details>"
+    },
+    {
+      "title": "The Poisoned Wine Flasks",
+      "text": "Among 1,000 bottles of wine, exactly one is poisoned. What is the minimum number of binary test strips needed to identify the poisoned bottle in a single round?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>10 strips, because 2¹⁰ = 1,024, providing enough binary states to pinpoint any bottle from 1 to 1,000.</p></details>"
+    },
+    {
+      "title": "The Unbroken Fall",
+      "text": "How can you drop a raw chicken egg onto a concrete floor from a height of one meter without cracking it?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>Drop it from a height of 1.5 meters. The egg will fall through the first meter without cracking before impact.</p></details>"
+    },
+    {
+      "title": "The Missing Dollar Paradox",
+      "text": "Three guests pay ₹30 for a room (₹10 each). The clerk refunds ₹5. The bellhop pockets ₹2 and returns ₹1 to each guest (they paid ₹9 each, total ₹27). With the bellhop's ₹2, that's ₹29. Where is the missing ₹1?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>The calculation is flawed: the ₹27 paid covers the ₹25 room plus the ₹2 taken by the bellhop. You subtract the ₹2, not add it.</p></details>"
+    },
+    {
+      "title": "The Bridge at Midnight",
+      "text": "Four people need to cross a bridge at night with one flashlight, which must be carried. The bridge holds two at a time. Speeds: 1, 2, 7, and 10 mins. Minimum time?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>17 minutes. 1 and 2 cross (2), 1 returns (1), 7 and 10 cross (10), 2 returns (2), 1 and 2 cross (2). 2 + 1 + 10 + 2 + 2 = 17.</p></details>"
+    },
+    {
+      "title": "The Silent Letter Observation",
+      "text": "Can you name three common English words where the letter 'P' is written but completely silent at the start of the word?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>Psychology, Pterodactyl, and Pneumonia.</p></details>"
+    },
+    {
+      "title": "The Man on the Island",
+      "text": "A dry, grassy island catches fire on the west side. Strong westerly winds push flames east toward a man trapped at the eastern tip. How can he survive?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>He starts a backfire in the brush near the eastern edge. Once burned, he steps onto the charred ground where the main fire cannot spread.</p></details>"
+    },
+    {
+      "title": "Creative Challenge: The Lipogram",
+      "text": "Write a three-sentence description of a night sky without using the letter 'E' (the most common letter in English).<br><br><details style='cursor:pointer;'><summary><strong>Reveal an example</strong></summary><p style='margin-top:0.5rem;'><em>'Dark clouds drift past a bright, cold moon. Stars spark across vast black voids. Night hangs still without sound.'</em></p></details>"
+    },
+    {
+      "title": "The Circular Race",
+      "text": "A runner completes a circular track in 80 seconds wearing blue shoes. Wearing red shoes, he takes 1 minute and 20 seconds. Why the difference?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>There is no difference: 80 seconds equals 1 minute and 20 seconds.</p></details>"
+    },
+    {
+      "title": "The Black and White Marbles",
+      "text": "You have two jars and 50 black and 50 white marbles. How do you divide them to maximize the chance of drawing a white marble at random?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>Put 1 white marble in Jar A, and all remaining 99 marbles in Jar B. This gives roughly a 74.7% chance of picking a white marble.</p></details>"
+    },
+    {
+      "title": "The T-Shirt Paradox",
+      "text": "A cotton shirt has two holes in the front, two sleeves, a neck hole, and a bottom opening. How many total holes does it have?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>8 holes. The two front holes pass through to the back (making 4), plus the neck, bottom, and two sleeves.</p></details>"
+    },
+    {
+      "title": "The Counterfeit Bill",
+      "text": "A customer buys a ₹200 item using a fake ₹500 note. The shopkeeper gets change from a neighbour, hands back ₹300, and later repays the neighbour ₹500. Total loss?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>₹500 (the ₹200 merchandise plus ₹300 cash handed to the thief).</p></details>"
+    },
+    {
+      "title": "Lateral Riddle: The Underwater Breath",
+      "text": "How long can an ordinary person stay underwater without using scuba equipment, snorkels, or swimming aids?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>As long as they choose, by holding a glass of water above their head.</p></details>"
+    },
+    {
+      "title": "The Paradox of the Barber",
+      "text": "In a town, the barber shaves all men, and only those men, who do not shave themselves. Does the barber shave himself?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>If he shaves himself, he breaks the rule. If he does not, he must shave himself. (Russell's Paradox; the barber cannot exist as defined).</p></details>"
+    },
+    {
+      "title": "Lateral Thinking: The Dark Cabin",
+      "text": "A small cabin in the woods contains a kerosene lamp, a wood stove, and a candle. You have only one match. What do you light first?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>The match.</p></details>"
+    },
+    {
+      "title": "The Clock Hands Overlap",
+      "text": "How many times do the hour and minute hands of an analog clock overlap precisely in a 24-hour day?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>22 times (11 times every 12 hours, since the 11th overlap coincides with 12:00).</p></details>"
+    },
+    {
+      "title": "The Seven-Letter Word",
+      "text": "I am a seven-letter word. Remove one letter, and twelve remain. What word am I?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>DOZENS (remove 'S' to leave DOZEN, which means twelve).</p></details>"
+    },
+    {
+      "title": "The Hotel Room Knock",
+      "text": "A man in a hotel hears a knock, opens the door, and finds a stranger who says, 'Sorry, I thought this was my room,' and walks off. The man calls security. Why?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>You do not knock on your own hotel room door before entering.</p></details>"
+    },
+    {
+      "title": "The Paradoxical Sentence",
+      "text": "What simple statement in English can never be true when spoken aloud?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'><em>'I am completely silent.'</em> (or <em>'I am asleep.'</em>)</p></details>"
+    },
+    {
+      "title": "The Camel Race Inheritance",
+      "text": "A father tells two sons: 'Whoever's camel crosses the finish line slower inherits my estate.' They sit motionless until a sage gives advice, and they ride fast. What was it?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>The sage told them to switch camels. By riding his brother's camel to the finish, his own camel remains behind.</p></details>"
+    },
+    {
+      "title": "The Heavy Book",
+      "text": "A volume sits on a wooden desk. If half its pages are removed, its thickness decreases by 50%. How many pages were removed if page 1 faces left?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>Page 1 in standard books is on the right-hand side, meaning the book was placed backward or upside down.</p></details>"
+    },
+    {
+      "title": "The Symmetrical Word",
+      "text": "What common English word looks identical when rotated 180 degrees upside down?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>SWIMS (or NOON).</p></details>"
+    },
+    {
+      "title": "The Fast-Growing Lily Pad",
+      "text": "A patch of lily pads doubles in size every day. If it takes 48 days to cover an entire pond, how many days does it take to cover half the pond?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>47 days (since it doubles on the final day to cover the full pond).</p></details>"
+    },
+    {
+      "title": "The Window Cleaner's Slip",
+      "text": "A window cleaner slips and falls off a 25-meter ladder onto concrete without sustaining an injury. How is this possible?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>He fell from the bottom rung of the ladder.</p></details>"
+    },
+    {
+      "title": "The Word with 5 Consecutive Vowels",
+      "text": "What common English word has five vowels grouped together in sequence?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>QUEUEING.</p></details>"
+    },
+    {
+      "title": "The Three Light Bulbs",
+      "text": "Downstairs are three switches. Upstairs is a closed room with three incandescent bulbs. You can visit the upstairs room only once. How do you map each switch?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>Turn Switch 1 ON for 10 minutes, then OFF. Turn Switch 2 ON. Enter the room: lit bulb = Switch 2, warm unlit = Switch 1, cold unlit = Switch 3.</p></details>"
+    },
+    {
+      "title": "The Cold Soup Riddle",
+      "text": "A diner orders soup, finds a fly in it, and asks for a new bowl. After one sip, he claims, 'This is the exact same bowl of soup!' How did he know?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>He had salted the first bowl before finding the fly; the new bowl was already salty.</p></details>"
+    },
+    {
+      "title": "The Unique Calendar Cubes",
+      "text": "You have two 6-sided wooden cubes. How do you paint digits on them to display any calendar date from 01 to 31?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>Cube 1: 0, 1, 2, 3, 4, 5. Cube 2: 0, 1, 2, 6, 7, 8 (the 6 can be rotated upside down to serve as a 9).</p></details>"
+    },
+    {
+      "title": "The Desert Body",
+      "text": "A man is found dead in the desert holding an unburned broken match, with no tracks around him. What happened?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>He drew the short match in a losing draw to bail out of an overloaded, falling hot-air balloon.</p></details>"
+    },
+    {
+      "title": "The Word with 'Me' Inside",
+      "text": "What 8-letter English word contains the word 'island' inside its spelling?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>ISLANDER (or AISLE).</p></details>"
+    },
+    {
+      "title": "The Missing Number in Sequence",
+      "text": "What is the next letter in the sequence: O, T, T, F, F, S, S, E, __?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>N (for Nine. The sequence represents One, Two, Three, Four, Five, Six, Seven, Eight, Nine).</p></details>"
+    },
+    {
+      "title": "The Wet Footsteps Riddle",
+      "text": "The more you take, the more you leave behind. What are they?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>Footsteps.</p></details>"
+    },
+    {
+      "title": "The Glass Water Spill",
+      "text": "A glass is filled to the brim with water, and an ice cube floats within it. When the ice cube melts completely, does the water spill over?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>No. The ice displaces a volume of water equal to its own melted mass, so water levels remain unchanged.</p></details>"
+    },
+    {
+      "title": "The Farmer's River Crossing",
+      "text": "A farmer must row a wolf, a goat, and a cabbage across a river in a boat holding only himself and one item. Wolf eats goat; goat eats cabbage. How does he cross?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>Take the goat over. Return alone. Take the wolf over, bring the goat back. Take cabbage over. Return alone. Take the goat over.</p></details>"
+    },
+    {
+      "title": "The Silent Room Puzzle",
+      "text": "What word becomes shorter when you add two letters to it?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>The word 'SHORT' (add 'ER' to make SHORTER).</p></details>"
+    },
+    {
+      "title": "The Submarine Door Riddle",
+      "text": "I can fill a room without taking up any physical space. What am I?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>Light (or scent, sound).</p></details>"
+    },
+    {
+      "title": "The Sinking Ship Rescue",
+      "text": "A passenger sees a ship sink into calm waters, yet not a single solitary person died. How?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>Every person aboard was married (none were solitary).</p></details>"
+    },
+    {
+      "title": "The Inverted Number",
+      "text": "What three-digit number increases its value by 1.5 times when turned upside down?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>The number 66 (turn upside down to become 99; 66 × 1.5 = 99).</p></details>"
+    },
+    {
+      "title": "The Broken Match Riddle",
+      "text": "If you have 3 apples and take away 2, how many apples do you have?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>2 apples (the ones you took away).</p></details>"
+    },
+    {
+      "title": "Lateral Thinking: The Black Car",
+      "text": "A black car drives on a street with no streetlights. The headlights are off. A black cat runs into the road, and the driver brakes in time. How did he see it?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>It was daytime.</p></details>"
+    },
+    {
+      "title": "The Infinite Hotel Check-in",
+      "text": "A hotel with infinite rooms is completely full. A new guest arrives. Can the manager accommodate them without turning anyone away?<br><br><details style='cursor:pointer;'><summary><strong>Reveal answer</strong></summary><p style='margin-top:0.5rem;'>Yes (Hilbert's Paradox): move the guest in Room n to Room n+1, leaving Room 1 vacant for the newcomer.</p></details>"
+    }
+  ],
+
+  "exist": [
+    {
+      "title": "The Victorian Mustache Cup",
+      "text": "Patented in the 1860s by British potter Harvey Adams, this teacup featured a ceramic ledge across the rim to keep hot tea from dissolving mustache wax.<br><br><small>Reference: <a href='https://www.vam.ac.uk' target='_blank' rel='noopener'>Victoria and Albert Museum</a></small>"
+    },
+    {
+      "title": "The Rani ki Vav Inverted Stepwell",
+      "text": "Constructed in 11th-century Gujarat, this stepwell descends seven terraces into the ground, functioning as a subterranean water sanctuary.<br><br><small>Reference: <a href='https://whc.unesco.org' target='_blank' rel='noopener'>UNESCO World Heritage Centre</a></small>"
+    },
+    {
+      "title": "The Mortsafe Iron Cages",
+      "text": "In 19th-century Scotland, heavy iron grates called mortsafes were bolted over graves to prevent body snatchers from stealing corpses for anatomy schools.<br><br><small>Reference: <a href='https://www.nms.ac.uk' target='_blank' rel='noopener'>National Museums Scotland</a></small>"
+    },
+    {
+      "title": "The 1930s Dimple Maker",
+      "text": "Invented by Isabella Gilbert in 1936, this wire contraption was fitted over the cheeks with metal prongs to press artificial dimples into facial tissue.<br><br><small>Reference: <a href='https://patents.google.com' target='_blank' rel='noopener'>U.S. Patent Office</a></small>"
+    },
+    {
+      "title": "The Victorian Mourning Jewelry",
+      "text": "In 19th-century Britain, brooches and rings incorporated the braided hair of deceased family members as mementos of loss.<br><br><small>Reference: <a href='https://www.metmuseum.org' target='_blank' rel='noopener'>Metropolitan Museum of Art</a></small>"
+    },
+    {
+      "title": "The Pedoscope Shoe X-Ray",
+      "text": "From the 1920s to 1950s, shoe stores utilized fluoroscopes where customers placed their feet inside an open X-ray beam to evaluate shoe fit.<br><br><small>Reference: <a href='https://www.orau.org' target='_blank' rel='noopener'>Oak Ridge Associated Universities</a></small>"
+    },
+    {
+      "title": "The Tibetan Sky Burial",
+      "text": "In mountainous Tibetan regions where soil is too rocky or frozen for burial and wood is scarce, the tradition of <em>jhator</em> offers deceased bodies to vultures on mountain slopes.<br><br><small>Reference: <a href='https://www.britannica.com' target='_blank' rel='noopener'>Encyclopaedia Britannica</a></small>"
+    },
+    {
+      "title": "The Roman Strigil",
+      "text": "Before soap was widespread, ancient Romans coated their bodies in olive oil after exercising and scraped off sweat and dirt with a curved bronze blade called a strigil.<br><br><small>Reference: <a href='https://www.britishmuseum.org' target='_blank' rel='noopener'>British Museum</a></small>"
+    },
+    {
+      "title": "The 18th-century Hermit",
+      "text": "In Georgian England, wealthy estate owners paid 'ornamental hermits' to live in rustic grottoes on their gardens for years without grooming to add atmosphere.<br><br><small>Reference: <a href='https://www.theguardian.com' target='_blank' rel='noopener'>The Guardian</a></small>"
+    },
+    {
+      "title": "The Flea Collar for Furs",
+      "text": "During the Renaissance, aristocrats wore small pelts or jeweled animal furs called <em>zibellini</em> designed to attract fleas away from their wearers.<br><br><small>Reference: <a href='https://www.metmuseum.org' target='_blank' rel='noopener'>Metropolitan Museum of Art</a></small>"
+    },
+    {
+      "title": "The London Baby Cages",
+      "text": "In 1930s London, wire cages were suspended from high-rise tenement windows so infants could access fresh air in crowded urban centers.<br><br><small>Reference: <a href='https://www.nationalarchives.gov.uk' target='_blank' rel='noopener'>UK National Archives</a></small>"
+    },
+    {
+      "title": "The Ice Harvesting Industry",
+      "text": "Before refrigeration, 19th-century businesses sawed blocks of ice from frozen New England lakes and shipped them packed in sawdust across the globe to India.<br><br><small>Reference: <a href='https://www.smithsonianmag.com' target='_blank' rel='noopener'>Smithsonian Magazine</a></small>"
+    },
+    {
+      "title": "The Ancient Roman Vomitorium Myth",
+      "text": "Vomitoria were not rooms for regurgitation during banquets, but wide architectural exit passages in Roman amphitheaters designed to disperse crowds quickly.<br><br><small>Reference: <a href='https://www.getty.edu' target='_blank' rel='noopener'>Getty Museum</a></small>"
+    },
+    {
+      "title": "The Safety Coffin",
+      "text": "During 19th-century cholera outbreaks, fear of premature burial led to coffins equipped with bells and air pipes connected to the surface.<br><br><small>Reference: <a href='https://patents.google.com' target='_blank' rel='noopener'>U.S. Patent Office</a></small>"
+    },
+    {
+      "title": "The Cunnington Acoustic Locator",
+      "text": "Before radar, military forces used concave concrete acoustic mirrors and ear horns to detect the sound of distant aircraft engines.<br><br><small>Reference: <a href='https://www.iwm.org.uk' target='_blank' rel='noopener'>Imperial War Museums</a></small>"
+    },
+    {
+      "title": "The Japanese Tooth Blackening (Ohaguro)",
+      "text": "For centuries in Japan, aristocratic women and samurai blackened their teeth with iron filings steeped in tea and vinegar, both for aesthetics and enamel preservation.<br><br><small>Reference: <a href='https://www.tnm.jp' target='_blank' rel='noopener'>Tokyo National Museum</a></small>"
+    },
+    {
+      "title": "The Venetian Doge's Marriage to the Sea",
+      "text": "Annually on Ascension Day, the Doge of Venice sailed out aboard the state galley <em>Bucentaur</em> and cast a consecrated gold ring into the Adriatic to symbolize dominion.<br><br><small>Reference: <a href='https://www.visitmuve.it' target='_blank' rel='noopener'>Musei Civici di Venezia</a></small>"
+    },
+    {
+      "title": "The 1920s Radio Hat",
+      "text": "In 1949, the American Merri-Lei Corporation marketed the 'Man-from-Mars Radio Hat', a pith helmet equipped with vacuum tubes and an antenna for portable broadcasts.<br><br><small>Reference: <a href='https://www.si.edu' target='_blank' rel='noopener'>Smithsonian Institution</a></small>"
+    },
+    {
+      "title": "The Pitchfork Protector",
+      "text": "In the 1800s, blacksmiths produced small brass knobs screwed onto pitchfork tines to prevent farm animals from accidentally injuring themselves in barns.<br><br><small>Reference: <a href='https://www.daff.gov.au' target='_blank' rel='noopener'>Australian Agricultural Archives</a></small>"
+    },
+    {
+      "title": "The Indian Urumi Whip-Sword",
+      "text": "Developed in ancient Kerala, the urumi is a weapon composed of flexible, coiled steel blades worn as a belt that requires Kalaripayattu training to wield safely.<br><br><small>Reference: <a href='https://keralatourism.org' target='_blank' rel='noopener'>Kerala Tourism Arts Archive</a></small>"
+    },
+    {
+      "title": "The Roman Garum Factories",
+      "text": "The staple condiment across ancient Rome was garum, a savory sauce made by fermenting fish entrails with salt in coastal stone vats under the sun.<br><br><small>Reference: <a href='https://www.pompeiisites.org' target='_blank' rel='noopener'>Pompeii Archaeological Park</a></small>"
+    },
+    {
+      "title": "The Victorian Tear Catcher",
+      "text": "Small glass phials from the 19th century were said to collect the tears of mourners; once the liquid evaporated, mourning periods were traditionally concluded.<br><br><small>Reference: <a href='https://www.vam.ac.uk' target='_blank' rel='noopener'>Victoria and Albert Museum</a></small>"
+    },
+    {
+      "title": "The Dynamophone (Telharmonium)",
+      "text": "Patented in 1897 by Thaddeus Cahill, this 200-tonne electrical instrument used motor-driven dynamos to transmit synthesized music through early telephone wires.<br><br><small>Reference: <a href='https://www.ieee.org' target='_blank' rel='noopener'>IEEE History Center</a></small>"
+    },
+    {
+      "title": "The Welsh Love Spoon",
+      "text": "Since the 17th century, young Welshmen carved wooden spoons adorned with symbols (keys for homes, vines for growing love) to court their partners.<br><br><small>Reference: <a href='https://museum.wales' target='_blank' rel='noopener'>National Museum Wales</a></small>"
+    },
+    {
+      "title": "The Victorian Mustache Spoon",
+      "text": "Alongside the mustache cup, 19th-century silversmiths designed soup spoons featuring a raised metal guard across one half to prevent soup spillage onto facial hair.<br><br><small>Reference: <a href='https://www.metmuseum.org' target='_blank' rel='noopener'>Metropolitan Museum of Art</a></small>"
+    },
+    {
+      "title": "The 17th-Century Cucumber Straightener",
+      "text": "Invented by engineer George Stephenson, glass tubes were placed over developing garden cucumbers to force them to grow straight rather than curved for serving.<br><br><small>Reference: <a href='https://www.rhs.org.uk' target='_blank' rel='noopener'>Royal Horticultural Society</a></small>"
+    },
+    {
+      "title": "The Sin Eater Tradition",
+      "text": "In 18th-century Wales and the Scottish borders, a village 'sin-eater' was hired to eat bread placed on a corpse's chest, symbolically absorbing the deceased's sins.<br><br><small>Reference: <a href='https://www.bbc.co.uk' target='_blank' rel='noopener'>BBC History</a></small>"
+    },
+    {
+      "title": "The Bootjack Beetle",
+      "text": "Victorian cast-iron bootjacks were frequently molded in the shape of stag beetles; pulling a boot out between the antennae provided leverage to remove dirty footwear.<br><br><small>Reference: <a href='https://www.nms.ac.uk' target='_blank' rel='noopener'>National Museums Scotland</a></small>"
+    },
+    {
+      "title": "The Roman Sponge on a Stick (Tersorium)",
+      "text": "In ancient Roman communal latrines, visitors cleaned themselves with a sea sponge tied to a wooden handle that was rinsed in a running water trough.<br><br><small>Reference: <a href='https://www.bmj.com' target='_blank' rel='noopener'>British Medical Journal</a></small>"
+    },
+    {
+      "title": "The 19th-Century Cholera Belt",
+      "text": "During Victorian cholera outbreaks, medical practitioners advised civilians to wear flannel abdominal binders, believing stomach chills triggered the disease.<br><br><small>Reference: <a href='https://wellcomecollection.org' target='_blank' rel='noopener'>Wellcome Collection</a></small>"
+    },
+    {
+      "title": "The Anti-Garter Flagon",
+      "text": "Ceramic containers were sometimes hidden inside crinolines and skirts to transport bootleg beverages during 19th-century excise enforcement.<br><br><small>Reference: <a href='https://www.historic-uk.com' target='_blank' rel='noopener'>Historic UK</a></small>"
+    },
+    {
+      "title": "The Spanish Chestnut Grater",
+      "text": "Specialized wooden drums lined with punched tin sheets were used in Galician hamlets to peel chestnuts without splitting the interior meat.<br><br><small>Reference: <a href='https://www.culturaydeporte.gob.es' target='_blank' rel='noopener'>Museo Nacional de Antropología</a></small>"
+    },
+    {
+      "title": "The Bone Chinaware Ash Origin",
+      "text": "Developed by Josiah Spode around 1794, genuine bone china incorporates calcined cattle bone ash into clay to achieve its translucency and tensile strength.<br><br><small>Reference: <a href='https://www.spode.co.uk' target='_blank' rel='noopener'>Spode Museum Trust</a></small>"
+    },
+    {
+      "title": "The Victorian Fainting Couch",
+      "text": "Daybeds featuring a single raised arm appeared in 19th-century homes to accommodate women wearing tight-laced corsets that restricted breathing.<br><br><small>Reference: <a href='https://www.metmuseum.org' target='_blank' rel='noopener'>Metropolitan Museum of Art</a></small>"
+    },
+    {
+      "title": "The Tossing of the Pancake (Westminster)",
+      "text": "Dating back to 1744, an annual Shrove Tuesday ritual at Westminster School involves the school cook tossing a pancake over a high bar for students to scramble for.<br><br><small>Reference: <a href='https://www.westminster.org.uk' target='_blank' rel='noopener'>Westminster School Archives</a></small>"
+    },
+    {
+      "title": "The French Guillotine Collar",
+      "text": "In post-revolutionary Paris, attendees of 'bals des victimes' wore thin red chokers around their necks to commemorate relatives executed during the Reign of Terror.<br><br><small>Reference: <a href='https://www.musee-carnavalet.paris.fr' target='_blank' rel='noopener'>Musée Carnavalet</a></small>"
+    },
+    {
+      "title": "The Tibetan Prayer Wheel Engine",
+      "text": "Constructed with printed mantras rolled inside hollow cylinders, prayer wheels were sometimes connected to watermills or wind vanes to spin mantras continuously.<br><br><small>Reference: <a href='https://www.rubinmuseum.org' target='_blank' rel='noopener'>Rubin Museum of Art</a></small>"
+    },
+    {
+      "title": "The 18th-century Skimington Ride",
+      "text": "In rural England, villages held noisy processions featuring pots and pans ('rough music') outside homes where domestic standards or community norms had been breached.<br><br><small>Reference: <a href='https://www.oxfordreference.com' target='_blank' rel='noopener'>Oxford Reference</a></small>"
+    },
+    {
+      "title": "The Posset Pot",
+      "text": "Popular in 17th-century England, posset pots had twin handles and a spout emerging from the bottom to sip spiced, curdled ale and milk without disturbing the foam layer.<br><br><small>Reference: <a href='https://www.ashmolean.org' target='_blank' rel='noopener'>Ashmolean Museum</a></small>"
+    },
+    {
+      "title": "The Dog-Powered Roasting Spit",
+      "text": "The Turnspit dog was a British breed raised to run inside an elevated wooden wheel that turned roasting meats over fireplace embers for hours.<br><br><small>Reference: <a href='https://www.npr.org' target='_blank' rel='noopener'>NPR History</a></small>"
+    },
+    {
+      "title": "The Indian Paan Dan Chest",
+      "text": "Mughal households carried ornate brass containers with compartments for betel leaves, areca nuts, lime paste, and spices for offering paan to guests.<br><br><small>Reference: <a href='https://www.nationalmuseumindia.gov.in' target='_blank' rel='noopener'>National Museum New Delhi</a></small>"
+    },
+    {
+      "title": "The Roman Bulla Amulet",
+      "text": "Ancient Roman boys wore an amulet around their neck containing protective charms, which was dedicated to household gods upon reaching adulthood.<br><br><small>Reference: <a href='https://www.britishmuseum.org' target='_blank' rel='noopener'>British Museum</a></small>"
+    },
+    {
+      "title": "The 19th-Century Nutmeg Scrimshaw",
+      "text": "Because whole nutmeg was a prized spice, sailors carved pocket-sized nutmeg graters out of whale ivory and boxwood to season drinks while at sea.<br><br><small>Reference: <a href='https://www.whalingmuseum.org' target='_blank' rel='noopener'>New Bedford Whaling Museum</a></small>"
+    },
+    {
+      "title": "The Scold's Bridle",
+      "text": "Used as public humiliation in 16th- and 17th-century Europe, this iron cage fit over a person's head with a textured plate pressing the tongue down to prevent speech.<br><br><small>Reference: <a href='https://www.nms.ac.uk' target='_blank' rel='noopener'>National Museums Scotland</a></small>"
+    },
+    {
+      "title": "The Knocker-Up Baton",
+      "text": "Before alarm clocks became affordable, Industrial Revolution workers paid 'knocker-ups' to tap on bedroom windows with bamboo poles or pea-shooters in the morning.<br><br><small>Reference: <a href='https://www.bbc.co.uk' target='_blank' rel='noopener'>BBC News</a></small>"
+    },
+    {
+      "title": "The Greek Eye-Votive Plaque",
+      "text": "Visitors to ancient healing temples of Asclepius left terracotta anatomical votives shaped like eyes or ears to petition the gods for healing.<br><br><small>Reference: <a href='https://wellcomecollection.org' target='_blank' rel='noopener'>Wellcome Collection</a></small>"
+    },
+    {
+      "title": "The 1930s Shaving Bib",
+      "text": "Designed for domestic convenience, cloth bibs equipped with suction cups attached to bathroom mirrors to catch falling facial hair during shaving.<br><br><small>Reference: <a href='https://patents.google.com' target='_blank' rel='noopener'>U.S. Patent Office</a></small>"
+    },
+    {
+      "title": "The French Vinaigrette Box",
+      "text": "Wealthy Europeans carried miniature decorative silver boxes containing sponges soaked in aromatic vinegar to mask foul street odors.<br><br><small>Reference: <a href='https://www.metmuseum.org' target='_blank' rel='noopener'>Metropolitan Museum of Art</a></small>"
+    },
+    {
+      "title": "The Japanese Netsuke Toggles",
+      "text": "Traditional kimonos lacked pockets, so men suspended pouches and tobacco boxes from sashes using small carved toggles called netsuke.<br><br><small>Reference: <a href='https://www.lacma.org' target='_blank' rel='noopener'>LACMA Collection</a></small>"
+    },
+    {
+      "title": "The 18th-century Patches (Mouches)",
+      "text": "Aristocrats wore small black silk shapes (stars, crescents) glued to facial skin, serving both to cover smallpox scars and convey social signals.<br><br><small>Reference: <a href='https://www.vam.ac.uk' target='_blank' rel='noopener'>Victoria and Albert Museum</a></small>"
+    }
+  ]
+}

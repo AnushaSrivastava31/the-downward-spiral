@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/jpeg" href="assets/spiral.jpeg?v=2" />
+  <title>The Downward Spiral</title>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<!-- Auth Modal -->
+  <aside id="auth-modal" class="drawer hidden">
+    <div class="drawer-content theme-challenge" style="max-width: 420px; text-align: center;">
+      <button class="close-btn" onclick="closeAuthModal()">&times;</button>
+      <span class="drawer-tag">YOUR ACCOUNT</span>
+      <h3 class="drawer-title" id="auth-heading">Join the Spiral</h3>
+      <p class="drawer-body" style="font-size: 0.9rem; margin-bottom: 1.5rem;" id="auth-subtext">
+        Enter your email to sync your saved rabbit holes across all your devices.
+      </p>
+
+      <div id="auth-logged-out-view">
+        <input type="email" id="auth-email" placeholder="curious@mind.com" class="auth-input" />
+        <button class="drawer-next-btn" style="width: 100%; margin-top: 1rem;" onclick="handleMagicLinkLogin()">
+          Send Magic Link &rarr;
+        </button>
+        <p id="auth-status-msg" style="font-size: 0.85rem; margin-top: 1rem; color: #622F4D; min-height: 1.2rem;"></p>
+      </div>
+
+      <div id="auth-logged-in-view" class="hidden">
+        <p style="margin-bottom: 1.5rem; font-size: 0.95rem;">Logged in as <strong id="user-email-display"></strong></p>
+        <button class="drawer-save-btn" style="width: 100%;" onclick="handleLogout()">Log out</button>
+      </div>
+    </div>
+  </aside>
+<body>
+
+  <!-- Navigation -->
+  <header class="navbar">
+    <div class="logo">
+      <img src="assets/spiral.jpeg" alt="The Downward Spiral Logo" class="logo-img" onerror="this.style.display='none'" />
+      <span class="logo-text">The <em>Downward</em><br/>Spiral</span>
+    </div>
+   <nav class="nav-links">
+      <a href="#home" class="active">Home</a>
+      <a href="#saved" id="saved-tab-btn">Saved (<span id="saved-count">0</span>)</a>
+      <button id="auth-btn" class="nav-auth-btn" onclick="openAuthModal()">Log in / Sign up</button>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <main class="hero" id="home">
+    <!-- Whimsical Celestial & Sketched Doodles -->
+    <div class="doodle doodle-moon" aria-hidden="true">
+      <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#622F4D" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path>
+        <path d="M19 3v4"></path>
+        <path d="M21 5h-4"></path>
+      </svg>
+    </div>
+
+    <div class="doodle doodle-star-left" aria-hidden="true">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#D6BDC9" stroke-width="2" stroke-linecap="round">
+        <line x1="12" y1="2" x2="12" y2="22"></line>
+        <line x1="2" y1="12" x2="22" y2="12"></line>
+        <line x1="5" y1="5" x2="19" y2="19"></line>
+        <line x1="19" y1="5" x2="5" y2="19"></line>
+      </svg>
+    </div>
+
+    <div class="doodle doodle-butterfly" aria-hidden="true">
+      <svg width="42" height="42" viewBox="0 0 24 24" fill="none" stroke="#622F4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m12 12 3-8c1.5 0 3 1.5 3 4 0 3-3 4-6 4Z"></path>
+        <path d="m12 12-3-8c-1.5 0-3 1.5-3 4 0 3 3 4 6 4Z"></path>
+        <path d="m12 12 4 7c1 1 2.5 1 3 0s0-2.5-2-4l-5-3Z"></path>
+        <path d="m12 12-4 7c-1 1-2.5 1-3 0s0-2.5 2-4l5-3Z"></path>
+        <path d="M12 7v10"></path>
+      </svg>
+    </div>
+
+    <div class="doodle doodle-star-right" aria-hidden="true">
+      <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="#622F4D" stroke-width="1.8" stroke-linecap="round">
+        <path d="m12 2 2.4 6.6L21 11l-5.6 4.4L17 22l-5-3.8L7 22l1.6-6.6L3 11l6.6-2.4z"></path>
+      </svg>
+    </div>
+    <p class="tagline-sub">WELCOME, CURIOUS SOUL</p>
+    <h1 class="hero-title">Just one little click...<br/><em>and down you go.</em></h1>
+    <p class="hero-desc">A fact, a question, a tiny detour. See where your curiosity takes you.</p>
+
+    <!-- Cards Grid -->
+    <section class="cards-grid">
+      <!-- 01 Discover -->
+      <article class="card card-dark" data-category="fact" onclick="openDrawer('fact')">
+        <div class="card-step">01 / DISCOVER</div>
+        <h2 class="card-title">The Randomiser</h2>
+        <p class="card-desc">Little facts. Big rabbit holes. Absolutely unnecessary knowledge.</p>
+        <span class="action-btn">Surprise me &rarr;</span>
+      </article>
+
+      <!-- 02 Explore -->
+      <article class="card card-plum-tint" data-category="rabbithole" onclick="openDrawer('rabbithole')">
+        <div class="card-step">02 / EXPLORE</div>
+        <h2 class="card-title">The Rabbit Hole</h2>
+        <p class="card-desc">Follow a passing thought into the wonderfully obscure.</p>
+        <span class="action-btn">Take the detour &rarr;</span>
+      </article>
+
+      <!-- 03 Test Yourself -->
+      <article class="card card-cream" data-category="challenge" onclick="openDrawer('challenge')">
+        <div class="card-step">03 / TEST YOURSELF</div>
+        <h2 class="card-title">Tiny Challenge</h2>
+        <p class="card-desc">Puzzles, peculiar questions, and trivia for that brain of yours.</p>
+        <span class="action-btn">Give it a go &rarr;</span>
+      </article>
+
+      <!-- 04 Anomalies -->
+      <article class="card card-accent" data-category="exist" onclick="openDrawer('exist')">
+        <div class="card-step">04 / ANOMALIES</div>
+        <h2 class="card-title">Why Does This Exist?</h2>
+        <p class="card-desc">Odd historical customs, forgotten relics, and bizarre inventions.</p>
+        <span class="action-btn">Inspect &rarr;</span>
+      </article>
+    </section>
+
+  <!-- Result Overlay Modal -->
+  <aside id="result-drawer" class="drawer hidden">
+    <div class="drawer-content">
+      <button class="close-btn" onclick="closeDrawer()">&times;</button>
+      <span id="drawer-tag" class="drawer-tag">CATEGORY</span>
+      <h3 id="drawer-title" class="drawer-title">Title</h3>
+      <div id="drawer-body" class="drawer-body">Details...</div>
+      
+      <div class="drawer-actions">
+        <button id="save-btn" class="drawer-save-btn" onclick="toggleSaveCurrent()">Save for later</button>
+        <button class="drawer-next-btn" onclick="generateNext()">Go Deeper &rarr;</button>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Saved Drawer -->
+  <aside id="saved-drawer" class="drawer hidden">
+    <div class="drawer-content theme-saved-view">
+      <button class="close-btn" onclick="closeSavedDrawer()">&times;</button>
+      <span class="drawer-tag">CABINET OF CURIOSITIES</span>
+      <h3 class="drawer-title">Your Saved Rabbit Holes</h3>
+      <div id="saved-list" class="saved-list">
+        <p class="empty-msg">No items saved yet. Start tumbling down!</p>
+      </div>
+    </div>
+  </aside>
+
+  <script src="app.js"></script>
+</body>
+</html>
